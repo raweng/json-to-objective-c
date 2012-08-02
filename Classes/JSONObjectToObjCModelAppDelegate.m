@@ -28,7 +28,6 @@ static BOOL IS_ARC = YES;
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
     // Override point for customization after application launch.
-    NSLog(@"ISARC %d",IS_ARC);
     [self.window makeKeyAndVisible];
     
 
