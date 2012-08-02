@@ -17,3 +17,5 @@ define CLASSNAME @"yourFileName" //e.g. UserModel
 3.And then perform a 'Build and Run'.
 
 Check console output to see the path of generated Objective C files.(.h and .m)
+
+Note: currently does not support nested JSON
