@@ -1,0 +1,271 @@
+// !$*UTF8*$!
+{
+	03339492153969D00049908A /* JSONObjectToObjCModel */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = JSONObjectToObjCModel;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	033394AA153969DA0049908A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	033394AB153969DA0049908A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	033394AE153969EA0049908A /* SBJsonWriter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {702, 1534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1549}";
+		};
+	};
+	033394AF153969EA0049908A /* SBJsonParser.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 6318}}";
+			sepNavSelRange = "{3629, 33}";
+			sepNavVisRange = "{6298, 875}";
+		};
+	};
+	033394B6153969EA0049908A /* NSString+SBJSON.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 728}}";
+			sepNavSelRange = "{2001, 16}";
+			sepNavVisRange = "{1059, 1114}";
+		};
+	};
+	033397FD1539D21F0049908A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 033394AE153969EA0049908A /* SBJsonWriter.h */;
+		name = "SBJsonWriter.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1549;
+		vrLoc = 0;
+	};
+	033397FE1539D21F0049908A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 033394B6153969EA0049908A /* NSString+SBJSON.m */;
+		name = "NSString+SBJSON.m: 48";
+		rLen = 16;
+		rLoc = 2001;
+		rType = 0;
+		vrLen = 1114;
+		vrLoc = 1059;
+	};
+	033397FF1539D21F0049908A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 033394AF153969EA0049908A /* SBJsonParser.m */;
+		name = "SBJsonParser.m: 118";
+		rLen = 33;
+		rLoc = 3629;
+		rType = 0;
+		vrLen = 875;
+		vrLoc = 6298;
+	};
+	033398001539D21F0049908A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 033398011539D21F0049908A /* StoreModel.m */;
+		name = "StoreModel.m: 63";
+		rLen = 0;
+		rLoc = 2662;
+		rType = 0;
+		vrLen = 1654;
+		vrLoc = 1010;
+	};
+	033398011539D21F0049908A /* StoreModel.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = StoreModel.m;
+		path = "/Users/sobin/Library/Application Support/iPhone Simulator/4.2/Applications/0676C7B7-0938-404E-8805-9EE07B685D7E/Documents/StoreModel.m";
+		sourceTree = "<absolute>";
+	};
+	0396FDD215599D34000F78FF /* json.json */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = json.json;
+		path = /Users/sobin/Projects/JSONObjectToObjCModel/json/json.json;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 610}}";
+			sepNavSelRange = "{61, 0}";
+			sepNavVisRange = "{0, 61}";
+		};
+	};
+	03D34F6F155BB8E3000694DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.h */;
+		name = "JSONObjectToObjCModelAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	03D350E8155C0360000694DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.m */;
+		name = "JSONObjectToObjCModelAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 2022;
+		vrLoc = 0;
+	};
+	03D350E9155C0360000694DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0396FDD215599D34000F78FF /* json.json */;
+		name = "json.json: 5";
+		rLen = 0;
+		rLoc = 61;
+		rType = 0;
+		vrLen = 61;
+		vrLoc = 0;
+	};
+	03D350EA155C0360000694DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 03D350EB155C0360000694DC /* json.json */;
+		name = "json.json: 5";
+		rLen = 0;
+		rLoc = 61;
+		rType = 0;
+		vrLen = 61;
+		vrLoc = 0;
+	};
+	03D350EB155C0360000694DC /* json.json */ = {
+		isa = PBXFileReference;
+		name = json.json;
+		path = /Users/sobin/Projects/JSONObjectToObjCModel/json/json.json;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 610}}";
+			sepNavSelRange = "{61, 0}";
+			sepNavVisRange = "{0, 61}";
+		};
+	};
+	1D3623240D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 587}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 362}";
+		};
+	};
+	1D3623250D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1671, 2275}}";
+			sepNavSelRange = "{250, 0}";
+			sepNavVisRange = "{0, 2022}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* JSONObjectToObjCModel */ = {
+		activeExec = 0;
+		executables = (
+			03339492153969D00049908A /* JSONObjectToObjCModel */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 03339492153969D00049908A /* JSONObjectToObjCModel */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* JSONObjectToObjCModel */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* JSONObjectToObjCModel */,
+		);
+		codeSenseManager = 033394AB153969DA0049908A /* Code sense */;
+		executables = (
+			03339492153969D00049908A /* JSONObjectToObjCModel */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					940,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					484,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 358331736;
+			PBXWorkspaceStateSaveDate = 358331736;
+		};
+		perUserProjectItems = {
+			033397FD1539D21F0049908A /* PBXTextBookmark */ = 033397FD1539D21F0049908A /* PBXTextBookmark */;
+			033397FE1539D21F0049908A /* PBXTextBookmark */ = 033397FE1539D21F0049908A /* PBXTextBookmark */;
+			033397FF1539D21F0049908A /* PBXTextBookmark */ = 033397FF1539D21F0049908A /* PBXTextBookmark */;
+			033398001539D21F0049908A /* PBXTextBookmark */ = 033398001539D21F0049908A /* PBXTextBookmark */;
+			03D34F6F155BB8E3000694DC /* PBXTextBookmark */ = 03D34F6F155BB8E3000694DC /* PBXTextBookmark */;
+			03D350E8155C0360000694DC /* PBXTextBookmark */ = 03D350E8155C0360000694DC /* PBXTextBookmark */;
+			03D350E9155C0360000694DC /* PBXTextBookmark */ = 03D350E9155C0360000694DC /* PBXTextBookmark */;
+			03D350EA155C0360000694DC /* PBXTextBookmark */ = 03D350EA155C0360000694DC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 033394AA153969DA0049908A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

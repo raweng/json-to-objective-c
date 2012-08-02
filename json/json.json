@@ -1,0 +1,7 @@
+{
+    "field_name" : "Event Name",
+    "field_type" : "Text",
+    "indexed" : 0,
+    "mandatory" : 0,
+    "multiple" : 0
+}
