@@ -1,7 +1,6 @@
 {
-    "field_name" : "Event Name",
-    "field_type" : "Text",
-    "indexed" : 0,
-    "mandatory" : 0,
-    "multiple" : 0
+    "username" : "john123",
+    "userID" : "1",
+    "firstName" : "John",
+    "lastName" : "Appleseed"
 }

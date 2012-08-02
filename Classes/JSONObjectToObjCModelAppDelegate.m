@@ -8,7 +8,7 @@
 
 #import "JSONObjectToObjCModelAppDelegate.h"
 #import "JSON.h"
-#define CLASSNAME @"RAPField" //e.g. UserModel
+#define CLASSNAME @"yourFileNameHere" //e.g. UserModel
 
 
 

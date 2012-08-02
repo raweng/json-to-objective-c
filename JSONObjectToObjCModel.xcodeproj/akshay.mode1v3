@@ -265,12 +265,13 @@
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
 								<string>080E96DDFE201D6D7F000001</string>
+								<string>033394DB15396DF90049908A</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>5</integer>
+									<integer>6</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -325,10 +326,11 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BA57870515BD34FB00511E6A</string>
+										<string>BA1FB1E315CAEA0B006B3421</string>
 										<key>history</key>
 										<array>
-											<string>BAB9B79B15BD34560004B553</string>
+											<string>BA1FB1E015CAEA0B006B3421</string>
+											<string>BA1FB1E215CAEA0B006B3421</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -340,14 +342,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1076, 391}}</string>
+								<string>{{0, 0}, {1076, 384}}</string>
 								<key>RubberWindowFrame</key>
 								<string>235 231 1284 638 0 0 1600 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>391pt</string>
+							<string>384pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -360,14 +362,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 396}, {1076, 201}}</string>
+								<string>{{0, 389}, {1076, 208}}</string>
 								<key>RubberWindowFrame</key>
 								<string>235 231 1284 638 0 0 1600 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>201pt</string>
+							<string>208pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -386,9 +388,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>BA5786F115BD347100511E6A</string>
+				<string>BA1FB1E415CAEA0B006B3421</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>BA5786F215BD347100511E6A</string>
+				<string>BA1FB1E515CAEA0B006B3421</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -526,10 +528,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C0AD2AF069F1E9B00FABCE6</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>BABA3490159F644400AE1CB5</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/sobin/Projects/JSONObjectToObjCModel/JSONObjectToObjCModel.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -610,7 +609,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>BABA3490159F644400AE1CB5</string>
-				<string>BA5786F315BD347100511E6A</string>
+				<string>BA1FB1E615CAEA0B006B3421</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

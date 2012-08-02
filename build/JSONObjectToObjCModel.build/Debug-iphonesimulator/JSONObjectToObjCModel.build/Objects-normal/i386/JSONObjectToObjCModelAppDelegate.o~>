@@ -1,0 +1,6 @@
+/Users/sobin/Projects/JSONObjectToObjCModel/Classes/JSONObjectToObjCModelAppDelegate.m:10:17: error: JSON.h: No such file or directory
+/Users/sobin/Projects/JSONObjectToObjCModel/Classes/JSONObjectToObjCModelAppDelegate.m: In function '-[JSONObjectToObjCModelAppDelegate application:didFinishLaunchingWithOptions:]':
+/Users/sobin/Projects/JSONObjectToObjCModel/Classes/JSONObjectToObjCModelAppDelegate.m:35: warning: no '-JSONValue' method found
+/Users/sobin/Projects/JSONObjectToObjCModel/Classes/JSONObjectToObjCModelAppDelegate.m:35: warning: (Messages without a matching method signature
+/Users/sobin/Projects/JSONObjectToObjCModel/Classes/JSONObjectToObjCModelAppDelegate.m:35: warning: will be assumed to return 'id' and accept
+/Users/sobin/Projects/JSONObjectToObjCModel/Classes/JSONObjectToObjCModelAppDelegate.m:35: warning: '...' as arguments.)

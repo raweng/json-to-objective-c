@@ -2,9 +2,9 @@
 {
 	1D3623250D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1552, 2509}}";
-			sepNavSelRange = "{5750, 0}";
-			sepNavVisRange = "{5085, 1394}";
+			sepNavIntBoundsRect = "{{0, 0}, {1671, 2795}}";
+			sepNavSelRange = "{265, 0}";
+			sepNavVisRange = "{0, 555}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* JSONObjectToObjCModel */ = {
@@ -44,35 +44,52 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 364721262;
-			PBXWorkspaceStateSaveDate = 364721262;
+			PBXPerProjectTemplateStateSaveDate = 365619702;
+			PBXWorkspaceStateSaveDate = 365619702;
 		};
 		perUserProjectItems = {
-			BA57870515BD34FB00511E6A /* PBXTextBookmark */ = BA57870515BD34FB00511E6A /* PBXTextBookmark */;
-			BAB9B79B15BD34560004B553 /* PBXTextBookmark */ = BAB9B79B15BD34560004B553 /* PBXTextBookmark */;
+			BA1FB1E015CAEA0B006B3421 /* PBXTextBookmark */ = BA1FB1E015CAEA0B006B3421 /* PBXTextBookmark */;
+			BA1FB1E215CAEA0B006B3421 /* PBXTextBookmark */ = BA1FB1E215CAEA0B006B3421 /* PBXTextBookmark */;
+			BA1FB1E315CAEA0B006B3421 /* PBXTextBookmark */ = BA1FB1E315CAEA0B006B3421 /* PBXTextBookmark */;
 		};
 		sourceControlManager = BABA3489159F441F00AE1CB5 /* Source Control */;
 		userBuildSettings = {
 		};
 	};
-	BA57870515BD34FB00511E6A /* PBXTextBookmark */ = {
+	BA1FB1E015CAEA0B006B3421 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.m */;
-		name = "JSONObjectToObjCModelAppDelegate.m: 122";
+		fRef = BA1FB1E115CAEA0B006B3421 /* json.json */;
+		name = "json.json: 6";
 		rLen = 0;
-		rLoc = 5750;
+		rLoc = 106;
 		rType = 0;
-		vrLen = 1394;
-		vrLoc = 5085;
+		vrLen = 106;
+		vrLoc = 0;
 	};
-	BAB9B79B15BD34560004B553 /* PBXTextBookmark */ = {
+	BA1FB1E115CAEA0B006B3421 /* json.json */ = {
+		isa = PBXFileReference;
+		name = json.json;
+		path = /Users/sobin/Projects/JSONObjectToObjCModel/json/json.json;
+		sourceTree = "<absolute>";
+	};
+	BA1FB1E215CAEA0B006B3421 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.m */;
-		name = "JSONObjectToObjCModelAppDelegate.m: 12";
+		name = "JSONObjectToObjCModelAppDelegate.m: 115";
 		rLen = 0;
-		rLoc = 279;
+		rLoc = 5758;
 		rType = 0;
-		vrLen = 483;
+		vrLen = 1531;
+		vrLoc = 5001;
+	};
+	BA1FB1E315CAEA0B006B3421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.m */;
+		name = "JSONObjectToObjCModelAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 555;
 		vrLoc = 0;
 	};
 	BABA3475159F440000AE1CB5 /* JSONObjectToObjCModel */ = {
