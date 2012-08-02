@@ -3,9 +3,9 @@ JSONToObjC
 
 JSON to ObjC model generation
 
-###Convert your JSON into Objective C model files.
+Convert your JSON into Objective C model files.
 
-##Steps:
+Steps:
 
 1.Open project in Xcode and paste your JSON into the following file
 /Classes/json/json.json
