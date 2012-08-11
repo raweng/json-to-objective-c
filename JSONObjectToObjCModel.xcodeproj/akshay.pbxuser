@@ -48,10 +48,9 @@
 			PBXWorkspaceStateSaveDate = 365620237;
 		};
 		perUserProjectItems = {
-			BA1FB1E015CAEA0B006B3421 = BA1FB1E015CAEA0B006B3421 /* PBXTextBookmark */;
-			BA1FB1E215CAEA0B006B3421 = BA1FB1E215CAEA0B006B3421 /* PBXTextBookmark */;
-			BA1FB1E315CAEA0B006B3421 = BA1FB1E315CAEA0B006B3421 /* PBXTextBookmark */;
-			BA1FB1F215CAEC14006B3421 /* PBXTextBookmark */ = BA1FB1F215CAEC14006B3421 /* PBXTextBookmark */;
+			BA1FB1E015CAEA0B006B3421 /* PBXTextBookmark */ = BA1FB1E015CAEA0B006B3421 /* PBXTextBookmark */;
+			BA1FB1E315CAEA0B006B3421 /* PBXTextBookmark */ = BA1FB1E315CAEA0B006B3421 /* PBXTextBookmark */;
+			BA1FB1F615CAED77006B3421 /* PBXTextBookmark */ = BA1FB1F615CAED77006B3421 /* PBXTextBookmark */;
 		};
 		sourceControlManager = BABA3489159F441F00AE1CB5 /* Source Control */;
 		userBuildSettings = {
@@ -74,16 +73,6 @@
 		path = /Users/sobin/Projects/JSONObjectToObjCModel/json/json.json;
 		sourceTree = "<absolute>";
 	};
-	BA1FB1E215CAEA0B006B3421 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.m */;
-		name = "JSONObjectToObjCModelAppDelegate.m: 115";
-		rLen = 0;
-		rLoc = 5727;
-		rType = 0;
-		vrLen = 1531;
-		vrLoc = 5001;
-	};
 	BA1FB1E315CAEA0B006B3421 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.m */;
@@ -94,7 +83,7 @@
 		vrLen = 555;
 		vrLoc = 0;
 	};
-	BA1FB1F215CAEC14006B3421 /* PBXTextBookmark */ = {
+	BA1FB1F615CAED77006B3421 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* JSONObjectToObjCModelAppDelegate.m */;
 		name = "JSONObjectToObjCModelAppDelegate.m: 30";
