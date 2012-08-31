@@ -2,8 +2,8 @@
 //  main.m
 //  JSONObjectToObjCModel
 //
-//  Created by sobin on 4/14/12.
-//  Copyright 2012 __MyCompanyName__. All rights reserved.
+//  Created by akshay on 4/14/12.
+//  Copyright 2012 raw engineering, inc. www.raweng.com. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
