@@ -1,4 +1,4 @@
-JSONToObjC
+JSON to Objective C
 ==========
 
 JSON to ObjC model generation
