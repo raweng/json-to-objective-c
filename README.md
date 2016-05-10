@@ -19,3 +19,7 @@ define CLASSNAME @"yourFileName" //e.g. UserModel
 Check console output to see the path of generated Objective C files.(.h and .m)
 
 Note: currently does not support nested JSON
+
+## Blog ##
+
+[http://www.built.io/blog/2012/08/json-to-objective-c-model-generation/] (http://www.built.io/blog/2012/08/json-to-objective-c-model-generation/ "http://www.built.io/blog/2012/08/json-to-objective-c-model-generation/")
